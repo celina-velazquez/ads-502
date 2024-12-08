@@ -10,7 +10,8 @@ This project explores breast cancer classification using data mining techniques 
 
 ## Features
 - Data preprocessing and exploratory data analysis (EDA)
-- Clustering and feature selection
+- Feature selection
+- ANN for classification
 - Supervised machine learning for classification
 - Evaluation metrics including precision, recall, and ROC-AUC
 
